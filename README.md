@@ -12,3 +12,10 @@ Project Description
 This project uses a variety of images, adds noise and blur to simulate common distortions, and then employs an autoencoder to enhance the image quality. The autoencoder consists of an encoder that compresses the noisy and blurred images into a compact representation, and a decoder that reconstructs and restores the images to their original quality. By training on altered images and their original counterparts, the model learns to effectively denoise and deblur, making it possible to increase the quality of random images
 
 Examples:
+Original Noisy-Blurred Image:
+![Original Noisy-Blurred Image](blured_version.png)
+
+Enhanced Image:
+
+![Enhanced Image](enhanced_version.png)
+
