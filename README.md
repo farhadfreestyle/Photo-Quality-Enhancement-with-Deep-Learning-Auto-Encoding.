@@ -14,7 +14,6 @@ This project uses a variety of images, adds noise and blur to simulate common di
 Examples:
 Original Noisy-Blurred Image:
 ![Original Noisy-Blurred Image](blured_version.png)
-
 Enhanced Image:
 ![Enhanced Image](enhanced_version.png)
 
