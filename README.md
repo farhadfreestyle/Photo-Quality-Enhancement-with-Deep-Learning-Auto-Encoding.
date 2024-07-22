@@ -16,6 +16,8 @@ Original Noisy-Blurred Image:
 ![Original Noisy-Blurred Image](blured_version.png)
 
 Enhanced Image:
-
 ![Enhanced Image](enhanced_version.png)
+
+
+Model can be enhanced by adding more layers and more quality images. In this dataset, images were not in high resolution, also model is not so big due to computational limitations.
 
